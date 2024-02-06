@@ -1,6 +1,7 @@
 
 public class Diamond {
 
+    String[] names = {""};
     public static void main(String[] args) {
         Diamond obj = new Diamond();
         obj.displayDiamond();
